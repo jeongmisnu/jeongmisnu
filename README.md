@@ -20,15 +20,15 @@ Here are some ideas to get you started:
 
 ### Skills
 ### :floppy_disk: Back-End
-> <img alt="Html" src ="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white"/> <img alt="Html" src ="https://img.shields.io/badge/-php-777BB4?logo=php&logoColor=white"/> <img alt="Html" src ="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white"/>
-> <img alt="Html" src ="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white"/> <img alt="Html" src ="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white"/>
+> <img alt="Html" src ="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white"/> <img alt="Html" src ="https://img.shields.io/badge/-php-777BB4?logo=php&logoColor=white"/> <img alt="Html" src ="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white"/><br/>
+> <img alt="Html" src ="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white"/> <img alt="Html" src ="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white"/><br/>
 > <img alt="Html" src ="https://img.shields.io/badge/-Mysql-4479A1?logo=mysql&logoColor=white"/> <img alt="Html" src ="https://img.shields.io/badge/-MongoDB-47Aw48?logo=mongodb&logoColor=white"/> <img alt="Html" src ="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white"/>
 
 ### :crystal_ball: Front-End
 > <img alt="Html" src ="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white"/> <img alt="Html" src ="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white"/>
 
 ### 🌱 Novice
-> <img alt="Html" src ="https://img.shields.io/badge/-React-61DAFF?logo=html5&logoColor=white"/>
+> <img alt="Html" src ="https://img.shields.io/badge/-React-61DAFF?logo=html5&logoColor=white"/> <br/>
 > <img alt="Html" src ="https://img.shields.io/badge/-Jinja-B41717?logo=jinja&logoColor=white"/>
 
 ### :pencil2: Studying
