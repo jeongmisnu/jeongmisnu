@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 > <img alt="Html" src ="https://img.shields.io/badge/-Mysql-4479A1?logo=mysql&logoColor=white"/> <img alt="Html" src ="https://img.shields.io/badge/-MongoDB-47Aw48?logo=mongodb&logoColor=white"/> <img alt="Html" src ="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white"/>
 
 ### :crystal_ball: Front-End
-> <img alt="Html" src ="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white"/> <img alt="Html" src ="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white"/>
+> <img alt="Html" src ="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white"/>  <img alt="Html" src ="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white"/>
 
 ### 🌱 Novice
-> <img alt="Html" src ="https://img.shields.io/badge/-React-61DAFF?logo=html5&logoColor=white"/> <br/>
+> <img alt="Html" src ="https://img.shields.io/badge/-React-61DAFF?logo=react&logoColor=white"/> <img alt="Html" src ="https://img.shields.io/badge/-jquery-0769AD?logo=jquery&logoColor=white"/> <br/>
 > <img alt="Html" src ="https://img.shields.io/badge/-Jinja-B41717?logo=jinja&logoColor=white"/>
 
 ### :pencil2: Studying
