@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 > <img alt="Html" src ="https://img.shields.io/badge/-Jinja-B41717?logo=jinja&logoColor=white"/>
 
 ### :pencil2: Studying
-> Algorithm (Use : Python)
+> Algorithm (Use : Python) <br/>
+> <img alt="Html" src ="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white"/>
 ------------
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bookaddiction)](https://solved.ac/bookaddiction)
