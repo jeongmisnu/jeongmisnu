@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### :floppy_disk: Back-End
 
-<img alt="Html" src ="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white"/> <img alt="Html" src ="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white"/> <img alt="Html" src ="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white"/><br/> <img alt="Html" src ="https://img.shields.io/badge/-Mysql-4479A1?logo=mysql&logoColor=white"/> <img alt="Html" src ="https://img.shields.io/badge/-MongoDB-47Aw48?logo=mongodb&logoColor=white"/> <img alt="Html" src ="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white"/>
+<img alt="Html" src ="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white"/> <img alt="Html" src ="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white"/> <img alt="Html" src ="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white"/> <img alt="Html" src ="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white"/><br/> <img alt="Html" src ="https://img.shields.io/badge/-Mysql-4479A1?logo=mysql&logoColor=white"/> <img alt="Html" src ="https://img.shields.io/badge/-MongoDB-47Aw48?logo=mongodb&logoColor=white"/> <img alt="Html" src ="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white"/> <img alt="Html" src ="https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white"/>
 
 ### :crystal_ball: Front-End
 
