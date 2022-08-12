@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 
 ### :pencil2: Studying
 
-Algorithm (Use : Python) <br/> <img alt="Html" src ="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=000"/>
 
 ---
 
