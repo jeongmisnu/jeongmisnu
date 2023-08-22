@@ -37,7 +37,6 @@ Here are some ideas to get you started:
 
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongmisnu&layout=donut)](https://github.com/jeongmisnu/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongmisnu&show_icons=true&theme=swift)
 
 [![Solved.ac
