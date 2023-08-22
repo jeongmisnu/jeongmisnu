@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - <img alt="Html" src ="https://img.shields.io/badge/원하는 아이콘.svg?&style=for-the-badge&logo=벳지내 글자&logoColor=벳지 글자 색"/>
 -->
-
-# jeongminsu
+![header](https://capsule-render.vercel.app/api?type=waving)
 
 #### Hello World!!!
 
