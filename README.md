@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 
 ### 🌱 Novice
 
-<img alt="Html" src ="https://img.shields.io/badge/-React-61DAFF?logo=react&logoColor=white"/> <img alt="Html" src ="https://img.shields.io/badge/-jquery-0769AD?logo=jquery&logoColor=white"/> <br/> <img alt="Html" src ="https://img.shields.io/badge/-Jinja-B41717?logo=jinja&logoColor=white"/>
+<img alt="Html" src ="https://img.shields.io/badge/-React-61DAFF?logo=react&logoColor=white"/> 
+<!-- <img alt="Html" src ="https://img.shields.io/badge/-jquery-0769AD?logo=jquery&logoColor=white"/> <br/> <img alt="Html" src ="https://img.shields.io/badge/-Jinja-B41717?logo=jinja&logoColor=white"/> -->
 
 ### :pencil2: Studying
 
