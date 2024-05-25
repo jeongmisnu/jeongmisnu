@@ -71,14 +71,14 @@ Comunication
 <!-- [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bookaddiction)](https://solved.ac/bookaddiction) -->
 
-### 2024년 목표
+### 2024 Goals
 
-1. GitHub stats A- 이상으로 만들기
-2. 주 3회 커밋 하기
-3. 토이 프로젝트 하나 완성해 배포하기
+1. Make GitHubstats A- and above
+2. Commit 3 times a week
+3. Complete and distribute a toy project
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongmisnu&show_icons=true&theme=swift)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongmisnu)](https://github.com/anuraghazra/github-readme-stats) -->
 
-좋은 하루 보내세요 ㅎㅎ
+Have a good day~ :)
